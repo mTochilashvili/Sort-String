@@ -1,0 +1,5 @@
+﻿  SortStrok.cpp
+C:\Users\mrmak\source\repos\SortStrok\SortStrok.cpp(61,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\mrmak\source\repos\SortStrok\SortStrok.cpp(100,18): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\mrmak\source\repos\SortStrok\SortStrok.cpp(101,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  SortStrok.vcxproj -> C:\Users\mrmak\source\repos\SortStrok\x64\Debug\SortStrok.exe
